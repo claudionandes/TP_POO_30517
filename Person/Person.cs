@@ -131,7 +131,6 @@ namespace TP_POO_30517.Person
         {
             return nextId++;
         }
-
         #endregion
     }
 }
